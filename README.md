@@ -1,2 +1,2 @@
 # Computervision
-This is my computer vision project.
+Convolutional Neural Network and Vgg16 Tranfer learning.
